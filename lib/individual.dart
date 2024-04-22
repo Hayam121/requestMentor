@@ -300,7 +300,7 @@ class _individualratioState extends State<individualratio> {
                 onPressed: () {
                   // Handle form submission here
                   // You can access the form values like track, description, selectedGenderRatio, selectedDate, selectedTime, minSalary, and maxSalary
-                },
+                }, 
                 style: ElevatedButton.styleFrom(
                   foregroundColor: Colors.white,
                    backgroundColor: Color(0xff206F7E),
